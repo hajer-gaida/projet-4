@@ -1,0 +1,26 @@
+.imput-size{
+    border-radius: 60pc;
+    padding-left: 10%;
+}
+.imput-size{border-radius: 60pc;
+
+}
+.imput-size{
+    border-radius: 60pc;
+}
+.buton-size{
+   width: 100%;
+}
+.buton-size::placeholder{
+    color:rgba(128, 128, 128, 0.472)
+}
+.icon1-position{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.icon2-position{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px
+}
